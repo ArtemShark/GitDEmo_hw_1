@@ -140,7 +140,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="First file.cpp" />
+<<<<<<< HEAD
     <ClCompile Include="Second.cpp" />
+=======
+    <ClCompile Include="Third file.cpp" />
+>>>>>>> master
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

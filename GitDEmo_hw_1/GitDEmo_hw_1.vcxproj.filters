@@ -18,7 +18,11 @@
     <ClCompile Include="First file.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="Second.cpp">
+=======
+    <ClCompile Include="Third file.cpp">
+>>>>>>> master
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
